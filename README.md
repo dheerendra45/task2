@@ -1,1 +1,1 @@
-# recruitment2023Task2
+This task boosted my Python skills learned last semester. I explored using libraries like NumPy and OpenCV for image analysis. Additionally, I learned Linux commands for system management and Bash scripting for automation. Integrating Python with Linux taught me how to efficiently handle data and system tasks.
